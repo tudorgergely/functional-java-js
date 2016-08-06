@@ -1,0 +1,74 @@
+<component name="libraryTable">
+  <library name="lorem-ipsum.bin" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/test/test-random.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/lib/dictionary.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/lib/clipper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/wordwrap/example/center.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/lib/generator.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/wordwrap/example/meat.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/wordwrap/test/wrap.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/wordwrap/test/break.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/usage-options.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/reflect.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/boolean_single.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/string.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/wordwrap/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/boolean_double.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/bool.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/divide.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/default_hash.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/line_count.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/line_count_wrap.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/nonopt.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/default_singles.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/short.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/xup.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/test/parse.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/test/_.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/test/usage.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/example/line_count_options.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/test/_/bin.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/test/_/argv.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/optimist/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/bin/lorem-ipsum.bin.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/test/test-random.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/lib/dictionary.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/lib/clipper.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/wordwrap/example/center.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/lib/generator.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/wordwrap/example/meat.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/wordwrap/test/wrap.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/wordwrap/test/break.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/usage-options.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/reflect.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/boolean_single.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/string.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/wordwrap/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/boolean_double.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/bool.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/divide.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/default_hash.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/line_count.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/line_count_wrap.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/nonopt.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/default_singles.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/short.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/xup.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/test/parse.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/test/_.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/test/usage.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/example/line_count_options.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/test/_/bin.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/test/_/argv.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/optimist/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/lorem-ipsum/bin/lorem-ipsum.bin.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
